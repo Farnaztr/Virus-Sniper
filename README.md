@@ -30,8 +30,8 @@ It scans USB drives, reveals hidden files, removes common malware, and generates
 |--------------------|-------------------------------------|
 | `VirusSniper.bat`  | The main batch file scanner         |
 | `README.md`        | You’re reading it                   |
-|`image.png``img.png`| Screenshot of the script            |
-
+|`image.png`         | Screenshot of the script            |
+|`img.png`           | Screenshot of the script            |
 ---
 
 ## 🛡️ Disclaimer
