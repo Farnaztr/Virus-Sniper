@@ -1,4 +1,4 @@
-# 🧼Virus-Sniper (Batch Script)
+# Virus-Sniper (Batch Script)
 
 A simple yet powerful USB cleaner script written in pure Windows Batch (.bat).  
 It scans USB drives, reveals hidden files, removes common malware, and generates a basic threat report.
