@@ -39,9 +39,3 @@ It scans USB drives, reveals hidden files, removes common malware, and generates
 This script is **not a full antivirus**. It removes common threats based on simple logic.  
 Always use trusted antivirus software for full protection.
 
----
-
-## Author
-
-Made by [https://github.com/Farnaztr]  
-
