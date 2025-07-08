@@ -5,17 +5,17 @@ It scans USB drives, reveals hidden files, removes common malware, and generates
 
 ---
 
-## 💡 Features
+## Features
 
-- 📁 Unhides hidden and system-protected files
-- 🗑️ Deletes known malicious files (`autorun.inf`, `.vbs`, `.lnk`, `.scr`)
-- 🔍 Detects and logs suspicious `.exe` files
-- 🕵️ Identifies fake folders containing `.exe` with same name
-- 📄 Creates a `virus_report.txt` if threats are found
+-  Unhides hidden and system-protected files
+-  Deletes known malicious files (`autorun.inf`, `.vbs`, `.lnk`, `.scr`)
+-  Detects and logs suspicious `.exe` files
+-  Identifies fake folders containing `.exe` with same name
+-  Creates a `virus_report.txt` if threats are found
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Plug in your USB flash drive.
 2. Run the script by double-clicking `VirusSniper.bat`.
@@ -34,14 +34,14 @@ It scans USB drives, reveals hidden files, removes common malware, and generates
 |`img.png`           | Screenshot of the script            |
 ---
 
-## 🛡️ Disclaimer
+## Disclaimer
 
 This script is **not a full antivirus**. It removes common threats based on simple logic.  
 Always use trusted antivirus software for full protection.
 
 ---
 
-## 🧠 Author
+## Author
 
 Made by [https://github.com/Farnaztr]  
 
